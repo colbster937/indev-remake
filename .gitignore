@@ -1,0 +1,10 @@
+**/.DS_Store
+**/gradle/wrapper/
+**/gradlew
+**/gradlew.bat
+**/build/
+**/.idea/
+**/classes.*
+**/bootstrap.*
+!/gradle/local-libs/**
+!**/classes.wasm-deobfuscator.wasm
